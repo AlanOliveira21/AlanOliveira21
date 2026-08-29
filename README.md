@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou Alan!
 
-<!--
-**AlanOliveira21/AlanOliveira21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desenvolvedor dart
 
-Here are some ideas to get you started:
+Sou **Estudante**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Nome ou nome Alan
+- Cargo/área — ex.: Desenvolvedor Full Stack, Engenheiro de Software
+- Tecnologias que você usa
+- Uma breve descrição sobre você
+- Projetos principais que quer destacar
+- Links — LinkedIn, portfólio, Instagram etc.
+- Se quiser: idiomas, localização, GitHub Stats, troféus e badges
+
+- devicon
